@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '01e30b570e034302b8e06d220139ca96',
+  rootNotionPageId: 'Welcome-to-Duoxiaonian-s-blog-b8af601ee1a840ad8e4d9a741b0acd7d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '朵小念Blog',
+  domain: 'blog.040813.xyz',
+  author: '朵小念',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '朵小念的Blog',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
